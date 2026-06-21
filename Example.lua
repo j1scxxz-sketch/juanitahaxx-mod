@@ -1,4 +1,4 @@
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/sametexe001/juanitahaxx/refs/heads/main/Library.lua"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/j1scxxz-sketch/juanitahaxx-mod/refs/heads/main/Library.lua"))()
 
 -- EXAMPLE
 do
